@@ -217,13 +217,27 @@ export default function Home() {
                   <span className="text-gradient d-inline">About Me</span>
                 </h2>
                 <p className="lead fw-light mb-4">
-                  My name is Start Bootstrap and I help brands grow.
+                  My name is{" "}
+                  <b className="text-gradient d-inline">Yasir Hussain</b> and
+                  I'm a{" "}
+                  <b className="text-gradient d-inline">
+                    FullStack Java Developer
+                  </b>
+                  .
                 </p>
                 <p className="text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Fugit dolorum itaque qui unde quisquam consequatur autem.
-                  Eveniet quasi nobis aliquid cumque officiis sed rem iure ipsa!
-                  Praesentium ratione atque dolorem?
+                  Having more than 6 years of experience. Currently working as a
+                  Senior Software Developer at{" "}
+                  <a href="https://contour-software.com/">Contour Software</a>{" "}
+                  in{" "}
+                  <a href="https://www.constellationkidney.com/">
+                    Clinical Computing UK - Constellation Kidney Group
+                  </a>{" "}
+                  division. In my spare time, I do some consultancy to the
+                  students and newcomers to the industry. Now a days, I'm trying
+                  to automate our Dev and QA labs testing environment by using{" "}
+                  <a href="https://automatedlab.org/en/latest/">AutomatedLab</a>
+                  .
                 </p>
                 <div className="d-flex justify-content-center fs-2 gap-4">
                   <a className="text-gradient" href="#!">
